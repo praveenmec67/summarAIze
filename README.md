@@ -1,7 +1,5 @@
-# Research-Papers-Highlights
+# summarAIze
 
-As a Machine Learning Engineer, I have always wished that it would be better if I can read and understand the key concept of a research paper in less than 15 mins. As an attempt towards this wish, I have tried to annotate the papers that I read and will be uploading it here. I believe this would help someone who is out there who wishes to quickly read and understand the key concept of a research article just like me. 
-
-My area of interest and primary focus would be papers from NLP
+As a Machine Learning Engineer, I’ve always wished I could quickly grasp the key concepts of a research paper in less than 15 minutes. To make this possible, I’ve created this repo to upload self annotated research papers that I read and find interesting. I hope that these summaries will help others, like me, who want to understand research papers quickly and efficiently. My primary focus will be on papers in Natural Language Processing (NLP).
 
 You can also find a quick summary for the same papers at https://medium.com/papers-i-found
